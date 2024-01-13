@@ -1,0 +1,1 @@
+NB : j'ai du travailler ma base de données directement sur firebase pour faciliter le déployement.
